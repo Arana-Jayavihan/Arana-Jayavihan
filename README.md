@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Arana-Jayavihan
      IT Number IT20138150
 - 👀 I’m interested in...
-    # Android Development
-    # Cryptography
-    # Ethical Hacking
-    # IOT Systems
-    # Gaming
+    Android Development
+    Cryptography
+    Ethical Hacking
+    IOT Systems
+    Gaming
 
 
 <!---
