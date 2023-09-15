@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Arana-Jayavihan
-     IT Number IT20138150
 - 👀 I’m interested in...
      Full Stack Development
      Machine Learning
