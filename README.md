@@ -1,13 +1,13 @@
-- 👋 Hi, I’m @Arana-Jayavihan.
-- Security Engineer at Millennium IT ESP.
-- Working under both Red Team and Blue Team.
-- 👀 I’m interested in...
-     # Full Stack Development
-     # Machine Learning
-     # Android Development
-     # Cryptography
-     # Ethical Hacking
-     # Gaming
+#👋 Hi, I’m @Arana-Jayavihan.
+## Security Engineer at Millennium IT ESP.
+## Working under both Red Team and Blue Team.
+### 👀 I’m interested in...
+- Full Stack Development
+- Machine Learning
+- Android Development
+- Cryptography
+- Ethical Hacking
+- Gaming
 
 
 <!---
