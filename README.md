@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Arana-Jayavihan
+- 👋 Hi, I’m @Arana-Jayavihan.
+- Security Engineer at Millennium IT ESP.
+- Working under both Red Team and Blue Team.
 - 👀 I’m interested in...
      Full Stack Development
      Machine Learning
